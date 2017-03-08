@@ -1,0 +1,10 @@
+#Hugo configuration
+title = "Damian Local Test"
+baseURL = "https:\/\/23eqweqw.asd.asd"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+
+[params]
+loginId = "1758823"
+subfolder = ""
